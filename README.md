@@ -1,6 +1,6 @@
 # Medicare DRG Dashboard – Finding the Financial Gaps  
 
-![Medicare DRG Dashboard Screenshot](https://public.tableau.com/static/images/DR/DRGMEDICAREDASHBOARD/Dashboard1/1.png)  
+![Medicare DRG Dashboard Screenshot]()  
 🔗 **Interactive version here** → [View on Tableau Public](https://public.tableau.com/views/DRGMEDICAREDASHBOARD/Dashboard1)  
 
 ---
