@@ -1,6 +1,6 @@
 # Medicare DRG Dashboard – Finding the Financial Gaps  
 
-![Medicare DRG Dashboard Screenshot]()  
+![Medicare DRG Dashboard Screenshot](https://github.com/blater54/DRG-Analysis-/blob/main/DRG%20Dashboard.png)  
   
 
 ---
