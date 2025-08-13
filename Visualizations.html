@@ -3,15 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medicare DRG Dashboard</title>
+    <title>DRG Medicare Dashboard</title>
 </head>
-<body style="font-family: Arial, sans-serif; text-align: center; background-color: #f8f9fa; padding: 20px;">
-
-    <h1>🏥 Medicare DRG Dashboard</h1>
-    <p>Interactive dashboard showing Medicare DRG reimbursements, losses, and state-level insights.</p>
-
-    <!-- Tableau Embed -->
-    <div class='tableauPlaceholder' id='viz1755044102357' style='position: relative; margin: auto;'>
+<body>
+    <div class='tableauPlaceholder' id='viz1755044102357' style='position: relative'>
         <noscript>
             <a href='#'>
                 <img alt=' ' src='https://public.tableau.com/static/images/DR/DRGMEDICAREDASHBOARD/Dashboard1/1_rss.png' style='border: none' />
@@ -22,6 +17,7 @@
             <param name='embed_code_version' value='3' />
             <param name='path' value='views/DRGMEDICAREDASHBOARD/Dashboard1?:language=en-US&amp;:embed=true&amp;:sid=&amp;:redirect=auth' />
             <param name='toolbar' value='yes' />
+            <param name='tabs' value='yes' /> <!-- ✅ Shows all dashboard tabs -->
             <param name='static_image' value='https://public.tableau.com/static/images/DR/DRGMEDICAREDASHBOARD/Dashboard1/1.png' />
             <param name='animate_transition' value='yes' />
             <param name='display_static_image' value='yes' />
@@ -31,7 +27,6 @@
             <param name='language' value='en-US' />
         </object>
     </div>
-
     <script type='text/javascript'>
         var divElement = document.getElementById('viz1755044102357');
         var vizElement = divElement.getElementsByTagName('object')[0];
@@ -49,6 +44,5 @@
         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
         vizElement.parentNode.insertBefore(scriptElement, vizElement);
     </script>
-
 </body>
 </html>
