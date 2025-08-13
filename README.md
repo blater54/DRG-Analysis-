@@ -58,7 +58,7 @@ If you work in hospital finance or operations, this dashboard helps you:
 
 ---
 
-## 🖥 Dashboard Features  
+## Dashboard Features  
 - Clickable **state map** → see losses by geography  
 - KPI cards for quick snapshots  
 - DRG ranking tables  
@@ -78,6 +78,6 @@ If you work in hospital finance or operations, this dashboard helps you:
 
 ---
 
-## 🤝 About Me  
+##  About Me  
 I have a **Master’s in Applied Mathematics** and a passion for using data to solve real-world problems in healthcare.  
 This dashboard is part of my journey into **healthcare analytics**, with a focus on revenue cycle and operations improvement.  
